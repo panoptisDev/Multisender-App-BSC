@@ -1,6 +1,6 @@
 //Multi Sender Contract
 const contract = {
-    address: '0x24E10e76dBF9915E333EA7652CDB29fF3B2feceB',
+    address: '0x0A784A1e87bb94b36F88392d75b97F4D6Bdaa28E',
     abi: [
             {
       "inputs": [],

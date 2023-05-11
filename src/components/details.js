@@ -33,7 +33,7 @@ function Details(props) {
             <p style={{marginTop: '20px'}}>Add Recipients Addresses and amount of token to send</p>
             <div style={{height: '200px'}}>
                 <CodeMirror
-                      value= '0xaE020F662f98DE8439b19b2c168F7B0BF8f7Dea6, 10'
+                      value= '0x1fbb4472DC12c13DD13Cc6C1B1498385027486ee, 10'
                       onChange= {(e) => {getContent(e)}}
                       style={{width:'50% !important'}}
                       options={{

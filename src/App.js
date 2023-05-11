@@ -23,8 +23,8 @@ function App() {
         "function approve(address spender, uint amount) returns(bool)",
         "function decimals() view returns (uint8)"
     ];
-
-    const [erc20, setErc20] = useState('0x9Cc33841e476946e55F95E5960E53c2276e65645');
+    // const tokenContract = BUSD on Testnet
+    const [erc20, setErc20] = useState('0x666fb439d93b14E42E86b7fe00ca7753996d7bC6');
     const [recipients, setRecipients] = useState([]);
 
     //Tx Status
